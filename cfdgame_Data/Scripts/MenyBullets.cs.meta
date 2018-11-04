@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b6870c0b30e03c4b901d083bc3def34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletsShader: {instanceID: 0}
+  - bulletsComputeShader: {instanceID: 0}
+  - Aaaaaaaaaaaaaaaa: {fileID: 2800000, guid: 9e4b63b1c22eca24d9af82c10f92ddd2, type: 3}
+  executionOrder: -400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

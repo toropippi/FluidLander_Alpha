@@ -1,0 +1,28 @@
+buffer 1,96,1,0
+
+repeat 96
+color cnt*64/96,cnt*64/96,cnt*64/96
+pset cnt,0
+loop
+bmpsave "y0.bmp"
+
+repeat 96
+color 64+cnt*64/96,64+cnt*64/96,64+cnt*64/96
+pset cnt,0
+loop
+bmpsave "y1.bmp"
+
+
+buffer 2,1,64,0
+
+repeat 64
+color cnt,cnt,cnt
+pset 0,cnt
+loop
+bmpsave "x0.bmp"
+
+repeat 64
+color 64+cnt,64+cnt,64+cnt
+pset 0,cnt
+loop
+bmpsave "x1.bmp"
