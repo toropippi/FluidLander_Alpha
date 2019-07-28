@@ -1,145 +1,152 @@
 ==========================================================================
-yƒ\ ƒt ƒg–¼z	ƒtƒŠƒ…[ƒhƒ‰ƒ“ƒ_[@ƒ¿-EDITION
-y ƒWƒƒƒ“ƒ‹ z	—¬‘ÌƒAƒNƒVƒ‡ƒ“
-y»@@@ìz	toropippi,ƒAƒhƒLƒ`
-y“®ìŠm”F‚Pz	Windows 7,Windows 8.1,Windows 10
-y“®ìŠm”F‚Qz	DirectX 11ˆÈ~(ƒVƒF[ƒ_[ƒ‚ƒfƒ‹ 5.0ˆÈ~)
-			NVIDIA»FGeForce 400 SeriesˆÈ~
-			AMD»FHD 6xxxˆÈ~
-			Intel»FHD Graphics 2500/4000ˆÈ~(Ivy BridgeˆÈ~)
-yŠJ”­Œ¾Œê‚Pz	C# (Unity)
-yŠJ”­Œ¾Œê‚Qz	HLSL (Compute Sheder•”•ª)
-yŠJ”­Œ¾Œê‚Rz	HSP (ƒRƒ“ƒtƒBƒO•”•ª)
+ã€ã‚½ ãƒ• ãƒˆåã€‘	ãƒ•ãƒªãƒ¥ãƒ¼ãƒ‰ãƒ©ãƒ³ãƒ€ãƒ¼ã€€Î±-EDITION
+ã€ ã‚¸ãƒ£ãƒ³ãƒ« ã€‘	æµä½“ã‚¢ã‚¯ã‚·ãƒ§ãƒ³
+ã€è£½ã€€ã€€ã€€ä½œã€‘	toropippi,ã‚¢ãƒ‰ã‚­ãƒ
+ã€å‹•ä½œç¢ºèªï¼‘ã€‘	Windows 7,Windows 8.1,Windows 10
+ã€å‹•ä½œç¢ºèªï¼’ã€‘	DirectX 11ä»¥é™(ã‚·ã‚§ãƒ¼ãƒ€ãƒ¼ãƒ¢ãƒ‡ãƒ« 5.0ä»¥é™)
+			NVIDIAè£½ï¼šGeForce 400 Seriesä»¥é™
+			AMDè£½ï¼šHD 6xxxä»¥é™
+			Intelè£½ï¼šHD Graphics 2500/4000ä»¥é™(Ivy Bridgeä»¥é™)
+ã€é–‹ç™ºè¨€èªžï¼‘ã€‘	C# (Unity)
+ã€é–‹ç™ºè¨€èªžï¼’ã€‘	HLSL (Compute Shederéƒ¨åˆ†)
+ã€é–‹ç™ºè¨€èªžï¼“ã€‘	HSP (ã‚³ãƒ³ãƒ•ã‚£ã‚°éƒ¨åˆ†)
 ===========================================================================
 
-yƒCƒ“ƒXƒg[ƒ‹z
-zipƒtƒ@ƒCƒ‹‚ð‰ð“€‰Â”\‚Èƒ\ƒtƒg‚Å‰ð“€‚µ‚Ä‰º‚³‚¢B
-yƒAƒ“ƒCƒ“ƒXƒg[ƒ‹z
-‰ð“€‚µ‚½ƒtƒHƒ‹ƒ_‚ðíœ‚µ‚Ä‰º‚³‚¢B
+ã€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€‘
+zipãƒ•ã‚¡ã‚¤ãƒ«ã‚’è§£å‡å¯èƒ½ãªã‚½ãƒ•ãƒˆã§è§£å‡ã—ã¦ä¸‹ã•ã„ã€‚
+ã€ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€‘
+è§£å‡ã—ãŸãƒ•ã‚©ãƒ«ãƒ€ã‚’å‰Šé™¤ã—ã¦ä¸‹ã•ã„ã€‚
 
-y‚²’ˆÓIIz
-‚±‚¿‚ç‚ÌƒQ[ƒ€‚Íˆê’è«”\ˆÈã‚ÌƒOƒ‰ƒtƒBƒbƒNƒ{[ƒh‚ðÏ‚ñ‚¾PC‚Å‚µ‚©ƒvƒŒƒC‚Å‚«‚Ü‚¹‚ñI
-ŒÃ‚¢¢‘ã‚Ìƒm[ƒgƒpƒ\ƒRƒ“‚ÍŒµ‚µ‚¢‚ÆŽv‚¢‚Ü‚·B“Á‚Éintel Core iƒVƒŠ[ƒY‚ÌCPU‚É“à‘ ‚³‚ê‚Ä‚¢‚éGPU‚Å‚Í«”\•s‘«‚Æ‚È‚èFPS‚ª—Ž‚¿‚½‚èA‹N“®‚Å‚«‚È‚¢‰Â”\«‚ª‚ ‚è‚Ü‚·B
-ŠˆàGPGPU‚ð—˜—p‚µ‚½ƒQ[ƒ€‚Ì‚½‚ß‚Å‚·B‚²—¹³‰º‚³‚¢B
+ã€ã”æ³¨æ„ï¼ï¼ã€‘
+ã“ã¡ã‚‰ã®ã‚²ãƒ¼ãƒ ã¯ä¸€å®šæ€§èƒ½ä»¥ä¸Šã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒœãƒ¼ãƒ‰ã‚’ç©ã‚“ã PCã§ã—ã‹ãƒ—ãƒ¬ã‚¤ã§ãã¾ã›ã‚“ï¼
+å¤ã„ä¸–ä»£ã®ãƒŽãƒ¼ãƒˆãƒ‘ã‚½ã‚³ãƒ³ã¯åŽ³ã—ã„ã¨æ€ã„ã¾ã™ã€‚ç‰¹ã«intel Core iã‚·ãƒªãƒ¼ã‚ºã®CPUã«å†…è”µã•ã‚Œã¦ã„ã‚‹GPUã§ã¯æ€§èƒ½ä¸è¶³ã¨ãªã‚ŠFPSãŒè½ã¡ãŸã‚Šã€èµ·å‹•ã§ããªã„å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
+æ‰€è¬‚GPGPUã‚’åˆ©ç”¨ã—ãŸã‚²ãƒ¼ãƒ ã®ãŸã‚ã§ã™ã€‚ã”äº†æ‰¿ä¸‹ã•ã„ã€‚
 
 
 
-y‘€ì•û–@z
+ã€æ“ä½œæ–¹æ³•ã€‘
 
-›ƒL[ƒ{[ƒh
-	@@@@ƒƒjƒ…[/‰ï˜b‰æ–Ê@@@@@ƒAƒNƒVƒ‡ƒ“‰æ–Ê
+â—‹ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰
+	ã€€ã€€ã€€ã€€ãƒ¡ãƒ‹ãƒ¥ãƒ¼/ä¼šè©±ç”»é¢ã€€ã€€ã€€ã€€ã€€ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ç”»é¢
 --------------------------------------------------------	
-	[‚y]@@@Œˆ’è/‰ï˜bis@@@@@@@ ”R—¿•¬ŽË
-	[‚w]@@@ƒLƒƒƒ“ƒZƒ‹/‰ï˜bƒXƒLƒbƒv@@ ----
-@@@[©][¨]@@ƒƒjƒ…[‘I‘ð @@@@@@@ Ž©‹@‰ñ“]
+	[ï¼º]ã€€ã€€ã€€æ±ºå®š/ä¼šè©±é€²è¡Œã€€ã€€ã€€ã€€ã€€ã€€ã€€ ç‡ƒæ–™å™´å°„
+	[ï¼¸]ã€€ã€€ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«/ä¼šè©±ã‚¹ã‚­ãƒƒãƒ—ã€€ã€€ ----
+ã€€ã€€ã€€[â†][â†’]ã€€ã€€ãƒ¡ãƒ‹ãƒ¥ãƒ¼é¸æŠž ã€€ã€€ã€€ã€€ã€€ã€€ã€€ è‡ªæ©Ÿå›žè»¢
 
-›ƒQ[ƒ€ƒpƒbƒh
-	@@@@ƒƒjƒ…[/‰ï˜b‰æ–Ê@@@@@ƒAƒNƒVƒ‡ƒ“‰æ–Ê
+â—‹ã‚²ãƒ¼ãƒ ãƒ‘ãƒƒãƒ‰
+	ã€€ã€€ã€€ã€€ãƒ¡ãƒ‹ãƒ¥ãƒ¼/ä¼šè©±ç”»é¢ã€€ã€€ã€€ã€€ã€€ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ç”»é¢
 --------------------------------------------------------	
-@@@[button1]@@Œˆ’è/‰ï˜bis@@@@@@@”R—¿•¬ŽË
-@@@[button2]@@ƒLƒƒƒ“ƒZƒ‹/‰ï˜bƒXƒLƒbƒv@@----
-@@@[©][¨]@@ƒƒjƒ…[‘I‘ð @@@@@@@ Ž©‹@‰ñ“]
+ã€€ã€€ã€€[button1]ã€€ã€€æ±ºå®š/ä¼šè©±é€²è¡Œã€€ã€€ã€€ã€€ã€€ã€€ã€€ç‡ƒæ–™å™´å°„
+ã€€ã€€ã€€[button2]ã€€ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«/ä¼šè©±ã‚¹ã‚­ãƒƒãƒ—ã€€ã€€----
+ã€€ã€€ã€€[â†][â†’]ã€€ã€€ãƒ¡ãƒ‹ãƒ¥ãƒ¼é¸æŠž ã€€ã€€ã€€ã€€ã€€ã€€ã€€ è‡ªæ©Ÿå›žè»¢
 
-¦ƒL[ƒ{[ƒhAƒQ[ƒ€ƒpƒbƒh—¼‘Î‰ž‚Å‚·B
-
-
-
-yƒQ[ƒ€“à—ez
-EƒQ[ƒ€”wŒi
-	‚±‚ÌƒQ[ƒ€‚Í•¨—‰‰ŽZ‚ð—˜—p‚µ‚½‹[Ž—“I‚È…’†‚Å‹@‘Ì‚ð‘€ì‚·‚éƒQ[ƒ€‚Å‚·B
-	•‘‘ä‚Í‰F’ˆ‚Å‚·‚Ì‚Å…’†‚Å‚Í‚È‚­‰¼‘z‚ÌƒG[ƒeƒ‹‚Æ‚¢‚¤‹ó‹C‚Ý‚½‚¢‚È‚à‚Ì‚Ì’†‚Å‹@‘Ì‚ð‘€ì‚·‚é‚±‚Æ‚É‚È‚è‚Ü‚·B
-EƒQ[ƒ€‚Ì‚Ý‚Ç‚±‚ë
-	Œ©‚Ç‚±‚ë‚Æ‚µ‚Ä‚ÍAGPGPU‚ð—˜—p‚µ‚½‚‘¬‰‰ŽZ‚É‚æ‚é—¬‘Ì‚Ì‹““®‚ð‚¨Šy‚µ‚Ý’¸‚¯‚é“_‚Å‚·Bi‚‘¬‚©‚Ç‚¤‚©‚ÍGPU‚ÉˆË‘¶‚µ‚Ü‚·j
-EƒQ[ƒ€‚Ì‚·‚·‚ß‚©‚½
-	ƒXƒ^[ƒg’n“_‚©‚çƒS[ƒ‹’n“_‚É’…’n‚·‚é‚Ì‚ª–Ú“I‚Å‚·BƒŒƒAƒA[ƒX‚ð‰ñŽû‚·‚é‚±‚Æ‚ÅƒS[ƒ‹‚ªoŒ»‚·‚éƒXƒe[ƒW‚à‚ ‚è‚Ü‚·B
-EƒXƒRƒA‚É‚Â‚¢‚Ä
-	‚Ü‚¸”R—¿‚Í–³ŒÀ‚É‚ ‚è‚Ü‚·B‚¢‚­‚çŽg‚Á‚Ä‚àƒXƒRƒA‚É‚Í‰e‹¿‚µ‚Ü‚¹‚ñB
-	‰ñŽûƒ~ƒbƒVƒ‡ƒ“‚Å‚ ‚éƒŒƒAƒA[ƒX‚Í‰ñŽû‚·‚é‚Æ“_”‚ª‘‚¦‚Ü‚·B
-	‚Ü‚½ƒNƒŠƒAƒ^ƒCƒ€‚ªƒXƒRƒA‚É”½‰f‚³‚ê‚Ü‚·B‘‚­ƒS[ƒ‹‚µ‚½‚Ù‚¤‚ªƒXƒRƒA‚ª‚æ‚­‚È‚è‚Ü‚·‚ªAìŽÒ“I‚É‚ÍA—¬‘Ì‚Ì—±Žq‚Ì“®‚«‚ðŠy‚µ‚ñ‚Å—~‚µ‚¢‚Ì‚ÅA‚ ‚Ü‚èƒ^ƒCƒ€‚É‚±‚¾‚è‰ß‚¬‚¸—V‚ñ‚Å‚Ù‚µ‚¢‚Å‚·B
-	”íƒ_ƒ[ƒW‚Í‹t‚ÉƒXƒRƒA‚Éƒ}ƒCƒiƒX‚Éì—p‚µ‚Ü‚·BŽ€–S‚·‚é‚²‚Æ‚É”íƒ_ƒ[ƒW‚É‘å‚«‚Èƒyƒiƒ‹ƒeƒB‚ª‰ÁŽZ‚³‚ê‚Ü‚·B
+â€»ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã€ã‚²ãƒ¼ãƒ ãƒ‘ãƒƒãƒ‰ä¸¡å¯¾å¿œã§ã™ã€‚
 
 
-y‰ß‹Žìz
-–{ì•i‚Ì‰ß‹Žì‚É‚ ‚½‚éì•i‚ð2015”N‚ÉŒöŠJ‚µ‚Ä‚¨‚è‚Ü‚·B
-u—¬‘ÌdeŒŽ–Ê’…—¤v
-Vector‚Åƒ_ƒEƒ“ƒ[ƒh‚Å‚«‚Ü‚·B
+
+ã€ã‚²ãƒ¼ãƒ å†…å®¹ã€‘
+ãƒ»ã‚²ãƒ¼ãƒ èƒŒæ™¯
+	ã“ã®ã‚²ãƒ¼ãƒ ã¯ç‰©ç†æ¼”ç®—ã‚’åˆ©ç”¨ã—ãŸæ“¬ä¼¼çš„ãªæ°´ä¸­ã§æ©Ÿä½“ã‚’æ“ä½œã™ã‚‹ã‚²ãƒ¼ãƒ ã§ã™ã€‚
+	èˆžå°ã¯å®‡å®™ã§ã™ã®ã§æ°´ä¸­ã§ã¯ãªãä»®æƒ³ã®ã‚¨ãƒ¼ãƒ†ãƒ«ã¨ã„ã†ç©ºæ°—ã¿ãŸã„ãªã‚‚ã®ã®ä¸­ã§æ©Ÿä½“ã‚’æ“ä½œã™ã‚‹ã“ã¨ã«ãªã‚Šã¾ã™ã€‚
+ãƒ»ã‚²ãƒ¼ãƒ ã®ã¿ã©ã“ã‚
+	è¦‹ã©ã“ã‚ã¨ã—ã¦ã¯ã€GPGPUã‚’åˆ©ç”¨ã—ãŸé«˜é€Ÿæ¼”ç®—ã«ã‚ˆã‚‹æµä½“ã®æŒ™å‹•ã‚’ãŠæ¥½ã—ã¿é ‚ã‘ã‚‹ç‚¹ã§ã™ã€‚ï¼ˆé«˜é€Ÿã‹ã©ã†ã‹ã¯GPUã«ä¾å­˜ã—ã¾ã™ï¼‰
+ãƒ»ã‚²ãƒ¼ãƒ ã®ã™ã™ã‚ã‹ãŸ
+	ã‚¹ã‚¿ãƒ¼ãƒˆåœ°ç‚¹ã‹ã‚‰ã‚´ãƒ¼ãƒ«åœ°ç‚¹ã«ç€åœ°ã™ã‚‹ã®ãŒç›®çš„ã§ã™ã€‚ãƒ¬ã‚¢ã‚¢ãƒ¼ã‚¹ã‚’å›žåŽã™ã‚‹ã“ã¨ã§ã‚´ãƒ¼ãƒ«ãŒå‡ºç¾ã™ã‚‹ã‚¹ãƒ†ãƒ¼ã‚¸ã‚‚ã‚ã‚Šã¾ã™ã€‚
+ãƒ»ã‚¹ã‚³ã‚¢ã«ã¤ã„ã¦
+	ã¾ãšç‡ƒæ–™ã¯ç„¡é™ã«ã‚ã‚Šã¾ã™ã€‚ã„ãã‚‰ä½¿ã£ã¦ã‚‚ã‚¹ã‚³ã‚¢ã«ã¯å½±éŸ¿ã—ã¾ã›ã‚“ã€‚
+	å›žåŽãƒŸãƒƒã‚·ãƒ§ãƒ³ã§ã‚ã‚‹ãƒ¬ã‚¢ã‚¢ãƒ¼ã‚¹ã¯å›žåŽã™ã‚‹ã¨ç‚¹æ•°ãŒå¢—ãˆã¾ã™ã€‚
+	ã¾ãŸã‚¯ãƒªã‚¢ã‚¿ã‚¤ãƒ ãŒã‚¹ã‚³ã‚¢ã«åæ˜ ã•ã‚Œã¾ã™ã€‚æ—©ãã‚´ãƒ¼ãƒ«ã—ãŸã»ã†ãŒã‚¹ã‚³ã‚¢ãŒã‚ˆããªã‚Šã¾ã™ãŒã€ä½œè€…çš„ã«ã¯ã€æµä½“ã®ç²’å­ã®å‹•ãã‚’æ¥½ã—ã‚“ã§æ¬²ã—ã„ã®ã§ã€ã‚ã¾ã‚Šã‚¿ã‚¤ãƒ ã«ã“ã ã‚ŠéŽãŽãšéŠã‚“ã§ã»ã—ã„ã§ã™ã€‚
+	è¢«ãƒ€ãƒ¡ãƒ¼ã‚¸ã¯é€†ã«ã‚¹ã‚³ã‚¢ã«ãƒžã‚¤ãƒŠã‚¹ã«ä½œç”¨ã—ã¾ã™ã€‚æ­»äº¡ã™ã‚‹ã”ã¨ã«è¢«ãƒ€ãƒ¡ãƒ¼ã‚¸ã«å¤§ããªãƒšãƒŠãƒ«ãƒ†ã‚£ãŒåŠ ç®—ã•ã‚Œã¾ã™ã€‚
 
 
-yXV—š—ðz
-2018/11/3@ƒ¿”ÅŠ®¬
-2018/8/1@ ƒvƒƒgƒ^ƒCƒvŠ®¬
-
-yƒNƒŒƒWƒbƒgz
-EŠé‰æAƒvƒƒOƒ‰ƒ€AƒVƒiƒŠƒI@toropippi
-EƒVƒiƒŠƒIAƒOƒ‰ƒtƒBƒbƒN@@@ƒAƒhƒLƒ`
+ã€éŽåŽ»ä½œã€‘
+æœ¬ä½œå“ã®éŽåŽ»ä½œã«ã‚ãŸã‚‹ä½œå“ã‚’2015å¹´ã«å…¬é–‹ã—ã¦ãŠã‚Šã¾ã™ã€‚
+ã€Œæµä½“deæœˆé¢ç€é™¸ã€
+Vectorã§ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã™ã€‚
 
 
-yŽÓŽ«z
-ã‹LˆÈŠO‚ÅƒQ[ƒ€ŠJ”­‚É’¼Ú‹¦—Í‚µ‚Ä‚­‚¾‚³‚Á‚½•û
-EƒOƒ‰ƒtƒBƒbƒN‹¦—Í	ƒƒJƒ}ƒXƒ^[(@koutetuoyako)
-EƒfƒoƒbƒO‹¦—Í		dedp(@dedp_papiko)
+ã€æ›´æ–°å±¥æ­´ã€‘
+2018/11/3ã€€Î±ç‰ˆå®Œæˆ
+2018/8/1ã€€ ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—å®Œæˆ
+
+ã€ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆã€‘
+ãƒ»ä¼ç”»ã€ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã€ã‚·ãƒŠãƒªã‚ªã€€toropippi
+ãƒ»ã‚·ãƒŠãƒªã‚ªã€ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã€€ã€€ã€€ã‚¢ãƒ‰ã‚­ãƒ
 
 
-ˆÈ‰º‚Ì‘fÞ‚ðŽg—p‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B
-¡”wŒi‰æ‘œ’ñ‹ŸF
-‚P
-http://www.flickr.com/photos/mattchang/3457255/ by Mattfs Life (modified by ‚ ‚â‚¦‚àŒ¤‹†Š)
+ã€è¬è¾žã€‘
+ä¸Šè¨˜ä»¥å¤–ã§ã‚²ãƒ¼ãƒ é–‹ç™ºã«ç›´æŽ¥å”åŠ›ã—ã¦ãã ã•ã£ãŸæ–¹
+ãƒ»ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å”åŠ›	ãƒ¡ã‚«ãƒžã‚¹ã‚¿ãƒ¼(@koutetuoyako)
+ãƒ»ãƒ‡ãƒãƒƒã‚°å”åŠ›		dedp(@dedp_papiko)
+
+
+ä»¥ä¸‹ã®ç´ æã‚’ä½¿ç”¨ã•ã›ã¦ã„ãŸã ãã¾ã—ãŸã€‚
+â– èƒŒæ™¯ç”»åƒæä¾›ï¼š
+ï¼‘
+http://www.flickr.com/photos/mattchang/3457255/ by Mattâ€™s Life (modified by ã‚ã‚„ãˆã‚‚ç ”ç©¶æ‰€)
 is licensed under a Creative Commons license:
 http://creativecommons.org/licenses/by/2.0/deed.en
-‚Q
-‹Ê‰p(ƒUƒ‰ƒXƒhƒbƒgƒRƒ€)	http://material.animehack.jp/
-‚R
-‚«‚Ü‚®‚êƒAƒtƒ^[		http://www5d.biglobe.ne.jp/~gakai/
-‚S
-‚±‚±‚©‚ç ‰“‚¢ ‚Ç‚±‚©	http://kokotodo.nobody.jp/
-‚T
-’N‚»”Þ’à			http://may.force.mepage.jp/
-‚U
-‚ä‚ñƒtƒŠ[ŽÊ^‘fÞW	http://www.yunphoto.net/
-‚V
-–¾‹{‘ºiƒ”ƒBƒ“ƒgƒhƒ‹ƒtj	http://winddorf.oops.jp/1top.htm
-‚W
-‚¢‚ç‚·‚Æ‚â
+ï¼’
+çŽ‰è‹±(ã‚¶ãƒ©ã‚¹ãƒ‰ãƒƒãƒˆã‚³ãƒ )	http://material.animehack.jp/
+ï¼“
+ãã¾ãã‚Œã‚¢ãƒ•ã‚¿ãƒ¼		http://www5d.biglobe.ne.jp/~gakai/
+ï¼”
+ã“ã“ã‹ã‚‰ é ã„ ã©ã“ã‹	http://kokotodo.nobody.jp/
+ï¼•
+èª°ãå½¼äº­			http://may.force.mepage.jp/
+ï¼–
+ã‚†ã‚“ãƒ•ãƒªãƒ¼å†™çœŸç´ æé›†	http://www.yunphoto.net/
+ï¼—
+æ˜Žå®®æ‘ï¼ˆãƒ´ã‚£ãƒ³ãƒˆãƒ‰ãƒ«ãƒ•ï¼‰	http://winddorf.oops.jp/1top.htm
+ï¼˜
+ã„ã‚‰ã™ã¨ã‚„
 https://www.irasutoya.com/
 
 
-¡ƒTƒEƒ“ƒhF
-‚P
-—ù–’ë‰€			http://www.rengoku-teien.com/
-‚Q
-ƒUEƒ}ƒbƒ`ƒƒCƒJƒ@ƒY2nd	http://osabisi.sakura.ne.jp/m2/
-‚R
-ŠÃ’ƒ‚Ì‰¹ŠyH–[		http://amachamusic.chagasi.com/
+â– ã‚µã‚¦ãƒ³ãƒ‰ï¼š
+ï¼‘
+ç…‰ç„åº­åœ’			http://www.rengoku-teien.com/
+ï¼’
+ã‚¶ãƒ»ãƒžãƒƒãƒãƒ¡ã‚¤ã‚«ã‚¡ã‚º2nd	http://osabisi.sakura.ne.jp/m2/
+ï¼“
+ç”˜èŒ¶ã®éŸ³æ¥½å·¥æˆ¿		http://amachamusic.chagasi.com/
 
 
-¡ƒLƒƒƒ‰‘fÞF
-‚P
-•éˆä Œd(ƒvƒ¶‚¿‚á‚ñ)	http://pronama.azurewebsites.net/
-‚Q
-“¯‚¶‚­uƒvƒ¶‚¿‚á‚ñv‚É‚Ä
-ìŽÒu’r‘ºƒqƒƒCƒ`v—l‚ÌWebƒRƒ~ƒbƒN‚Ì‰æ‘œ‚ð—˜—p‚µ‚Ä‚¨‚è‚Ü‚·B
-
-
-
-
-y–ÆÓŽ–€z
-‚±‚ÌƒvƒƒOƒ‰ƒ€‚ðŽg—p‚µ‚Ä—˜—pŽÒ‚ª”í‚Á‚½‘¹ŠQ‚É‚Â‚¢‚ÄAˆêØÓ”C‚ð•‰‚¢‚©‚Ë‚Ü‚·B
-‘S‚ÄŽ©ŒÈÓ”C‚É‚Ä‚²Žg—p‚ð‚¨Šè‚¢’v‚µ‚Ü‚·B
-i¦‚±‚Ì‹K–ñ‚ÍŽ–‘O’m‚È‚µ‚É•ÏX‚³‚ê‚éê‡‚ª‚ ‚è‚Ü‚·j
-
-
-y’˜ìŒ z
-C#ƒR[ƒhAHLSLƒJ[ƒlƒ‹ƒR[ƒh‚É‚Â‚¢‚Ä‚ÍMIT License‚Å‚ ‚éB
-E‚±‚Ìƒ\ƒtƒgƒEƒFƒA‚ð’N‚Å‚à–³ž‚Å–³§ŒÀ‚Éˆµ‚Á‚Ä—Ç‚¢B‚½‚¾‚µA’˜ìŒ •\Ž¦‚¨‚æ‚Ñ–{‹–‘ø•\Ž¦‚ðƒ\ƒtƒgƒEƒFƒA‚Ì‚·‚×‚Ä‚Ì•¡»‚Ü‚½‚Íd—v‚È•”•ª‚É‹LÚ‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B
-EìŽÒ‚Ü‚½‚Í’˜ìŒ ŽÒ‚ÍAƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ‚µ‚Ä‚È‚ñ‚çÓ”C‚ð•‰‚í‚È‚¢B
-
-‚»‚Ì‘¼‚Ì‰¹Šyƒf[ƒ^A‰æ‘œƒf[ƒ^“™‚É‚Â‚¢‚Ä‚ÍAŠe§ìŽÒ—l‚É‚»‚ê‚¼‚ê’˜ìŒ ‚ª‚ ‚é‚à‚Ì‚Æ‚·‚éB
-Copyright (c) 2018 toropippi
+â– ã‚­ãƒ£ãƒ©ç´ æï¼š
+ï¼‘
+æš®äº• æ…§(ãƒ—ãƒ­ç”Ÿã¡ã‚ƒã‚“)	http://pronama.azurewebsites.net/
+ï¼’
+åŒã˜ãã€Œãƒ—ãƒ­ç”Ÿã¡ã‚ƒã‚“ã€ã«ã¦
+ä½œè€…ã€Œæ± æ‘ãƒ’ãƒ­ã‚¤ãƒã€æ§˜ã®Webã‚³ãƒŸãƒƒã‚¯ã®ç”»åƒã‚’åˆ©ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚
 
 
 
-y˜A—æ1z
-efghipippi—live.jp
-y˜A—æ2z
+
+ã€å…è²¬äº‹é …ã€‘
+ã“ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä½¿ç”¨ã—ã¦åˆ©ç”¨è€…ãŒè¢«ã£ãŸæå®³ã«ã¤ã„ã¦ã€ä¸€åˆ‡è²¬ä»»ã‚’è² ã„ã‹ã­ã¾ã™ã€‚
+å…¨ã¦è‡ªå·±è²¬ä»»ã«ã¦ã”ä½¿ç”¨ã‚’ãŠé¡˜ã„è‡´ã—ã¾ã™ã€‚
+ï¼ˆâ€»ã“ã®è¦ç´„ã¯äº‹å‰å‘ŠçŸ¥ãªã—ã«å¤‰æ›´ã•ã‚Œã‚‹å ´åˆãŒã‚ã‚Šã¾ã™ï¼‰
+
+
+ã€è‘—ä½œæ¨©ã€‘
+C#ã‚³ãƒ¼ãƒ‰ã€HLSLã‚«ãƒ¼ãƒãƒ«ã‚³ãƒ¼ãƒ‰ã«ã¤ã„ã¦ã¯Apache Licenseã§ã‚ã‚‹ã€‚
+   Copyright 2018 toropippi
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+ã€é€£çµ¡å…ˆ1ã€‘
+efghipippiï¼ live.jp
+ã€é€£çµ¡å…ˆ2ã€‘
 twitter:Red_Black_GPGPU
-http://blog.livedoor.jp/toropippi/ ƒuƒƒO‚ÌƒRƒƒ“ƒg—“‚Ü‚Å
+http://blog.livedoor.jp/toropippi/ ãƒ–ãƒ­ã‚°ã®ã‚³ãƒ¡ãƒ³ãƒˆæ¬„ã¾ã§
